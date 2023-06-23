@@ -6,7 +6,7 @@ This modern **Ajio-ecommerce-website** project is built using **ReactJS**, **Jav
 
 ### Project Features
 - Beautiful modern UI using modern tools like **Bootstrap** and **MaterialUI**.
-- Authenticating the user using Google **Local****Storage**.
+- Authenticating the user using Google **Local** **Storage**.
 - Navigating different pages using react-router-dom v6.
 - State management using React **React-Hooks**.
 - User can **add** products to the cart (Authentication is required).
