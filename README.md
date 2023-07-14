@@ -1,4 +1,4 @@
-#  **Ajio e-commerce website using ReactJS, Node and Material Ui**
+#  **Ajio e-commerce website using ReactJS, Node Js and Material Ui**
 
 This modern **Ajio-ecommerce-website** project is built using **ReactJS**, **Javascript** and **Material Ui**.
 
